@@ -1,0 +1,9 @@
+{
+	"name": "azuredatabricksproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cf920a6e-bd2c-4864-80d3-32f283938a72",
+		"tenantId": "81c7e045-e509-4a97-9bd8-f65c36f233e0"
+	}
+}
