@@ -1,0 +1,62 @@
+[
+  {
+    "customer_id": "C001",
+    "first_name": "Ravi",
+    "last_name": "Kumar",
+    "email": "ravi.kumar@gmail.com",
+    "phone": "9876543210",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "country": "India",
+    "created_date": "2024-01-01",
+    "updated_date": "2025-01-01"
+  },
+  {
+    "customer_id": "C002",
+    "first_name": "Anita",
+    "last_name": "Sharma",
+    "email": "anita.sharma@gmail.com",
+    "phone": "9876543211",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "created_date": "2024-01-05",
+    "updated_date": "2025-01-02"
+  },
+  {
+    "customer_id": "C003",
+    "first_name": "John",
+    "last_name": "Doe",
+    "email": "john.doe@gmail.com",
+    "phone": "9876543212",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "created_date": "2024-02-01",
+    "updated_date": "2025-01-03"
+  },
+  {
+    "customer_id": "C004",
+    "first_name": "Priya",
+    "last_name": "Iyer",
+    "email": "priya.iyer@gmail.com",
+    "phone": "9876543213",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "created_date": "2024-03-01",
+    "updated_date": "2025-01-05"
+  },
+  {
+    "customer_id": "C005",
+    "first_name": "Michael",
+    "last_name": "Smith",
+    "email": "michael.smith@gmail.com",
+    "phone": "9876543214",
+    "city": "Dallas",
+    "state": "Texas",
+    "country": "USA",
+    "created_date": "2024-03-10",
+    "updated_date": "2025-01-06"
+  }
+]
